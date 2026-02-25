@@ -22,6 +22,14 @@ Supports **Linux and Windows activation modes**.
 
 ---
 
+# 📷 Pictures
+-------------
+
+![Tool picture 1](images/The-Manager-1.jpeg)
+![Tool picture 2](images/The-Manager-3.jpeg)
+![Tool picture 3](images/The-Manager-4.jpeg)
+
+
 ## 📦 Requirements
 
 - Python 3.8+
