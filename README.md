@@ -49,7 +49,7 @@ of all environments from a single interface.
 ### Clone the repository
 
 ```bash
-git clone https://github.com/<user>/<repo>.git
+git clone https://github.com/CyberTechNex/The-Manager.git
 cd <repo>
 ```
 
@@ -141,7 +141,7 @@ Actions:
 The tool:
 
 1. Prompts for name  
-2. Creates venv in `~/all_venvs/<name>`  
+2. Creates venv in `~/.all_venvs/<name>`  
 3. Installs pip  
 4. Auto-activates immediately
 
