@@ -10,7 +10,7 @@ Supports **Linux and Windows activation modes**.
 
 ## ✨ Features
 
-- Centralized virtual environment storage in `~/all_venvs`
+- Centralized virtual environment storage in `~/.all_venvs`
 - Create environments with pip included
 - Auto-activate environments in an interactive shell
 - List environments with:
@@ -18,7 +18,7 @@ Supports **Linux and Windows activation modes**.
   - disk usage
 - Rename environments
 - Delete environments safely
-- Switch between Linux / Windows mode
+- Auto detects operating system and is designed to work on Linux and Windows
 
 ---
 
