@@ -154,6 +154,7 @@ Useful for:
 - WSL
 - Dual-boot systems
 - Shared drives
+- Wrong system OS detection (very rare)
 
 ---
 
