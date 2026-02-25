@@ -50,7 +50,7 @@ of all environments from a single interface.
 
 ```bash
 git clone https://github.com/CyberTechNex/The-Manager.git
-cd <repo>
+cd The-Manager
 ```
 
 ### Run directly
