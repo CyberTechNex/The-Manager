@@ -29,6 +29,8 @@ Supports **Linux and Windows activation modes**.
 ![Tool picture 2](images/The-Manager-3.jpeg)
 ![Tool picture 3](images/The-Manger-4.jpeg)
 
+-------------
+
 
 ## 📦 Requirements
 
