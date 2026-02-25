@@ -10,7 +10,7 @@ from datetime import datetime
 
 
 # ---------- CONFIG ----------
-BASE_DIR = Path.home() / "all_venvs"
+BASE_DIR = Path.home() / ".all_venvs"
 BASE_DIR.mkdir(exist_ok=True)
 
 
